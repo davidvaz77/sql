@@ -78,4 +78,5 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 
 David Vaz submission: 
 C:\Users\david\my_directory\sql\02_activities\homework\images\Homework1_SQL_DSI_DavidVaz.jpg
+![Homework1_SQL_DSI_DavidVaz](https://github.com/user-attachments/assets/097b77c0-5d2f-432e-92fc-2acd4e3d3233)
 
