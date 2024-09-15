@@ -77,6 +77,6 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
 David Vaz submission: 
-C:\Users\david\my_directory\sql\02_activities\homework\images\Homework1_SQL_DSI_DavidVaz.jpg
+
 ![Homework1_SQL_DSI_DavidVaz](https://github.com/user-attachments/assets/097b77c0-5d2f-432e-92fc-2acd4e3d3233)
 
